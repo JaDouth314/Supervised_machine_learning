@@ -21,7 +21,7 @@ Before beginning work on running the models for this assignment (logistical regr
 7. Ran predictions and received a training data score of **0.9921** and a test data score of **0.9918**.
 8. Began testing the Random Forest Classifier Model by importing the sklearn `RandomForestClassifier` function.
 9. Imported the sklearn `StandardScaler` function and fit the X_train data.
-10. Scaled and transformed the X_train and X_test data.
+10. Scaled and transformed the *X_train* and *X_test data*.
 11. Ran the Random Forest Classifier and received a training data score of **0.9975** and a test data score of **0.9917**.
 
 ### Postwork analysis
